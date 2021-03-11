@@ -42,7 +42,7 @@ $ serverless config credentials \
 
 * Clone this repository to your local machine and replace the files
 
-  `$ git clone <this_repo_url>`
+  `$ git clone https://github.com/petruborta/api-requests-dispatcher.git`
 
 * In `serverless.yml`, replace the value of `region` (line 11) with your own region
 
